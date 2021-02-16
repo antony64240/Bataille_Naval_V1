@@ -1,0 +1,7 @@
+$(document).ready( function() {
+    $('#LookforGame').click( function(event) {
+        window.location.replace('game.html');
+    });
+});
+
+

@@ -1,0 +1,35 @@
+td {
+    background-color: #555555;
+    color: #FFF;
+    font-weight: bold;
+    padding: 10px;
+    cursor: pointer;
+
+}
+
+#debug {
+    background-color: #CCC;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+#debug .debugLine {
+    margin: 2px 0;
+    padding: 1px 5px;
+    background-color: #EEE;
+}
+.caseBataille{
+    width:20px;
+    height:20px;
+    text-align:center;
+    background-image: ('../images/mer.PNG');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.caseNumerotation{
+    width:20px;
+    height:20px;
+    text-align:center;
+
+}
